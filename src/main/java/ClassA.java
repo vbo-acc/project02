@@ -1,5 +1,5 @@
 public class ClassA {
 
     //pewpew
-    //ololo
+    //pewpew
 }
